@@ -1,4 +1,5 @@
 #Dice Simulator
+#Variables used ---> toRoll = to get the input of choice 
 import random
 
 while True:
